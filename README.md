@@ -14,6 +14,9 @@ KEY FEATURES :
 
 4. MVC Architecture: The application follows the Model-View-Controller (MVC) architectural pattern, ensuring a clear separation of concerns. The model represents the data and business logic, the view handles the user interface, and the controller manages the flow of data and interactions between the model and view. This design promotes maintainability, scalability, and code organization.
 
+5. Responsive Design: The application is built with a responsive design approach, ensuring optimal user experience across various devices and screen sizes. Whether accessed from a desktop computer, tablet, or mobile phone, the application's layout and functionality adapt seamlessly to provide a consistent and visually appealing experience. This feature enhances accessibility and usability, allowing users to manage their book collection on the go without any compromise in functionality or user interface quality.
+
+   
 Few Snapshots you can check below :
 
 HOME PAGE
