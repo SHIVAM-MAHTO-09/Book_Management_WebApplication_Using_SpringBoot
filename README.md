@@ -5,6 +5,15 @@ Leveraging the capabilities of Spring Boot, I seamlessly integrated the backend 
 
 The application's foundation on MVC architecture further enhanced maintainability and scalability, streamlining development processes. Through this project, I have honed my skills in Spring Boot development, empowering me to tackle complex challenges and deliver exceptional solutions for future projects.
 
+KEY FEATURES : 
+1. CRUD Operations: The application allows users to perform all four fundamental CRUD (Create, Read, Update, Delete) operations on books. Users can add new books, view existing ones, update book details, and delete books from the database.
+
+2. Database Integration: The application effectively integrates with MySQL database, enabling seamless storage and retrieval of book data. The database handles the persistence of book information, ensuring data remains intact across sessions.
+
+3. Dynamic User Interface: Thymeleaf, a powerful templating engine, is employed to create dynamic and interactive user interfaces. This allows for the presentation of data in a user-friendly manner, enhancing the overall user experience.
+
+4. MVC Architecture: The application follows the Model-View-Controller (MVC) architectural pattern, ensuring a clear separation of concerns. The model represents the data and business logic, the view handles the user interface, and the controller manages the flow of data and interactions between the model and view. This design promotes maintainability, scalability, and code organization.
+
 Few Snapshots you can check below :
 
 HOME PAGE
