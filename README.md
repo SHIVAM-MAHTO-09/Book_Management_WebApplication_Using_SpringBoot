@@ -1,5 +1,9 @@
 # Book_Management_WebApplication_Using_SpringBoot
-Resourceful and dedicated software engineer with a deep understanding of Spring Boot, MySQL, Thymeleaf, and MVC architecture. Proficiently utilized this powerful stack to develop a comprehensive "Book Management Web Application" with full CRUD operations. Leveraging the capabilities of Spring Boot, I seamlessly integrated the backend with MySQL database, enabling efficient data storage and retrieval. Thymeleaf was employed to create dynamic and interactive user interfaces, ensuring a smooth user experience. The application's foundation on MVC architecture further enhanced maintainability and scalability, streamlining development processes. Through this project, I have honed my skills in Spring Boot development, empowering me to tackle complex challenges and deliver exceptional solutions for future projects.
+Resourceful and dedicated software engineer with a deep understanding of Spring Boot, MySQL, Thymeleaf, and MVC architecture. Proficiently utilized this powerful stack to develop a comprehensive "Book Management Web Application" with full CRUD operations. 
+
+Leveraging the capabilities of Spring Boot, I seamlessly integrated the backend with MySQL database, enabling efficient data storage and retrieval. Thymeleaf was employed to create dynamic and interactive user interfaces, ensuring a smooth user experience. 
+
+The application's foundation on MVC architecture further enhanced maintainability and scalability, streamlining development processes. Through this project, I have honed my skills in Spring Boot development, empowering me to tackle complex challenges and deliver exceptional solutions for future projects.
 
 Few Snapshots you can check below :
 
