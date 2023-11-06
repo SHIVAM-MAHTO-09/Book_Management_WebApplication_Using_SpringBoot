@@ -35,6 +35,9 @@ MY BOOKS LIST
 
 ![image](https://github.com/SHIVAM-MAHTO-09/Book_Management_WebApplication_Using_SpringBoot/assets/123778173/08b29098-9644-481b-a1fe-bfa5a8f546de)
 
+![image](https://github.com/SHIVAM-MAHTO-09/Book_Management_WebApplication_Using_SpringBoot/assets/123778173/8beb8ceb-525d-4ceb-b913-60bb8643aeff)
+
+
 
 EDIT BOOK DETAILS USING ID
 ![image](https://github.com/SHIVAM-MAHTO-09/Book_Management_WebApplication_Using_SpringBoot/assets/123778173/0a4a97e9-5e5c-46b6-987e-a5207ab61f89)
